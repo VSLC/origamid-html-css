@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  padding: 10px;
+  background: lightblue;
+}
+
+.fixo2 {
+  position: relative;
+  background: greenyellow;
+  top: 40px;
+  z-index: -1;
+}
+
+.fixo3 {
+  position: absolute;
+  background: lightcoral;
+  z-index: -1;
+}

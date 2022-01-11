@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+h2 {
+  color: #fff;
+}
+
+.carro {
+  background: #000;
+  height: 150px;
+  width: 80%;
+  margin: 15px auto;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.bicicleta {
+  background: #000;
+  height: 150px;
+  width: 80%;
+  margin: 10px auto;
+  padding: 20px 20px;
+  border-radius: 5px;
+}
+
+p {
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+  font-weight: bold;
+}
+
+span {
+  color: #ffd700;
+}
+
+a {
+  display: inline-block;
+  background-color: #ffd700;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
